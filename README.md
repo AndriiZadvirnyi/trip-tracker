@@ -36,4 +36,6 @@ To build the project run:
 ```bash
   ng build
 ```
+
+## Preview
 ![Demo Preview](.github/assets/demo.gif)
