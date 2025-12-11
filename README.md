@@ -9,6 +9,7 @@
     ```
 
 2.  **Create Environment File**
+
     Create a new file `src/environments/environment.ts` and add your Google Maps API Key:
 
     ```typescript
