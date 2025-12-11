@@ -1,0 +1,533 @@
+[
+  {
+    "isDrivingBar": false,
+    "eventStart": "2025-11-28T00:00:00",
+    "eventStop": "2025-11-28T15:07:08",
+    "distance": 0,
+    "place": null,
+    "points": [
+      {
+        "id": 202056603,
+        "eventDateTime": "2025-11-28T15:07:08",
+        "longitude": 5.02238,
+        "latitude": 51.01296,
+        "odometer": 74175085,
+        "direction": 184,
+        "speed": 11
+      }
+    ]
+  },
+  {
+    "isDrivingBar": true,
+    "eventStart": "2025-11-28T15:07:08",
+    "eventStop": "2025-11-28T15:26:55",
+    "distance": 13165,
+    "place": null,
+    "points": [
+      {
+        "id": 202056603,
+        "eventDateTime": "2025-11-28T15:07:08",
+        "longitude": 5.02238,
+        "latitude": 51.01296,
+        "odometer": 74175085,
+        "direction": 184,
+        "speed": 11
+      },
+      {
+        "id": 202056974,
+        "eventDateTime": "2025-11-28T15:08:09",
+        "longitude": 5.01352,
+        "latitude": 51.01322,
+        "odometer": 74175835,
+        "direction": 246,
+        "speed": 52
+      },
+      {
+        "id": 202057377,
+        "eventDateTime": "2025-11-28T15:09:08",
+        "longitude": 5.00558,
+        "latitude": 51.01488,
+        "odometer": 74176610,
+        "direction": 309,
+        "speed": 55
+      },
+      {
+        "id": 202057746,
+        "eventDateTime": "2025-11-28T15:10:09",
+        "longitude": 4.9981,
+        "latitude": 51.01194,
+        "odometer": 74177405,
+        "direction": 209,
+        "speed": 50
+      },
+      {
+        "id": 202058155,
+        "eventDateTime": "2025-11-28T15:11:09",
+        "longitude": 4.99043,
+        "latitude": 51.0082,
+        "odometer": 74178175,
+        "direction": 197,
+        "speed": 44
+      },
+      {
+        "id": 202058518,
+        "eventDateTime": "2025-11-28T15:12:09",
+        "longitude": 4.98953,
+        "latitude": 51.00655,
+        "odometer": 74178385,
+        "direction": 200,
+        "speed": 0
+      },
+      {
+        "id": 202058879,
+        "eventDateTime": "2025-11-28T15:13:09",
+        "longitude": 4.98953,
+        "latitude": 51.00655,
+        "odometer": 74178385,
+        "direction": 200,
+        "speed": 0
+      },
+      {
+        "id": 202059249,
+        "eventDateTime": "2025-11-28T15:14:09",
+        "longitude": 4.98822,
+        "latitude": 51.00391,
+        "odometer": 74178720,
+        "direction": 194,
+        "speed": 28
+      },
+      {
+        "id": 202059629,
+        "eventDateTime": "2025-11-28T15:15:09",
+        "longitude": 4.98595,
+        "latitude": 51.00174,
+        "odometer": 74179125,
+        "direction": 267,
+        "speed": 22
+      },
+      {
+        "id": 202060015,
+        "eventDateTime": "2025-11-28T15:16:09",
+        "longitude": 4.98,
+        "latitude": 51.00028,
+        "odometer": 74179635,
+        "direction": 243,
+        "speed": 35
+      },
+      {
+        "id": 202060398,
+        "eventDateTime": "2025-11-28T15:17:10",
+        "longitude": 4.97327,
+        "latitude": 50.99457,
+        "odometer": 74180515,
+        "direction": 192,
+        "speed": 47
+      },
+      {
+        "id": 202060782,
+        "eventDateTime": "2025-11-28T15:18:10",
+        "longitude": 4.97497,
+        "latitude": 50.98642,
+        "odometer": 74181540,
+        "direction": 179,
+        "speed": 62
+      },
+      {
+        "id": 202061146,
+        "eventDateTime": "2025-11-28T15:19:10",
+        "longitude": 4.9753,
+        "latitude": 50.98011,
+        "odometer": 74182300,
+        "direction": 181,
+        "speed": 18
+      },
+      {
+        "id": 202061536,
+        "eventDateTime": "2025-11-28T15:20:10",
+        "longitude": 4.96903,
+        "latitude": 50.97975,
+        "odometer": 74182795,
+        "direction": 263,
+        "speed": 43
+      },
+      {
+        "id": 202061925,
+        "eventDateTime": "2025-11-28T15:21:10",
+        "longitude": 4.96023,
+        "latitude": 50.97913,
+        "odometer": 74183450,
+        "direction": 264,
+        "speed": 34
+      },
+      {
+        "id": 202062305,
+        "eventDateTime": "2025-11-28T15:22:10",
+        "longitude": 4.94961,
+        "latitude": 50.97841,
+        "odometer": 74184255,
+        "direction": 263,
+        "speed": 50
+      },
+      {
+        "id": 202062753,
+        "eventDateTime": "2025-11-28T15:23:10",
+        "longitude": 4.9375,
+        "latitude": 50.97752,
+        "odometer": 74185175,
+        "direction": 263,
+        "speed": 67
+      },
+      {
+        "id": 202063115,
+        "eventDateTime": "2025-11-28T15:24:11",
+        "longitude": 4.9219,
+        "latitude": 50.97646,
+        "odometer": 74186345,
+        "direction": 263,
+        "speed": 62
+      },
+      {
+        "id": 202063514,
+        "eventDateTime": "2025-11-28T15:25:10",
+        "longitude": 4.90913,
+        "latitude": 50.97558,
+        "odometer": 74187325,
+        "direction": 263,
+        "speed": 51
+      },
+      {
+        "id": 202063912,
+        "eventDateTime": "2025-11-28T15:26:10",
+        "longitude": 4.89886,
+        "latitude": 50.97455,
+        "odometer": 74188100,
+        "direction": 254,
+        "speed": 40
+      },
+      {
+        "id": 202065432,
+        "eventDateTime": "2025-11-28T15:26:55",
+        "longitude": 4.89696,
+        "latitude": 50.97424,
+        "odometer": 74188250,
+        "direction": 250,
+        "speed": 0
+      }
+    ]
+  },
+  {
+    "isDrivingBar": false,
+    "eventStart": "2025-11-28T15:26:55",
+    "eventStop": "2025-11-28T15:30:33",
+    "distance": 0,
+    "place": null,
+    "points": [
+      {
+        "id": 202065432,
+        "eventDateTime": "2025-11-28T15:26:55",
+        "longitude": 4.89696,
+        "latitude": 50.97424,
+        "odometer": 74188250,
+        "direction": 250,
+        "speed": 0
+      }
+    ]
+  },
+  {
+    "isDrivingBar": true,
+    "eventStart": "2025-11-28T15:30:33",
+    "eventStop": "2025-11-28T15:39:55",
+    "distance": 6000,
+    "place": null,
+    "points": [
+      {
+        "id": 202065527,
+        "eventDateTime": "2025-11-28T15:30:33",
+        "longitude": 4.89696,
+        "latitude": 50.97424,
+        "odometer": 74188260,
+        "direction": 245,
+        "speed": 14
+      },
+      {
+        "id": 202065906,
+        "eventDateTime": "2025-11-28T15:31:34",
+        "longitude": 4.89986,
+        "latitude": 50.97315,
+        "odometer": 74188655,
+        "direction": 84,
+        "speed": 31
+      },
+      {
+        "id": 202066290,
+        "eventDateTime": "2025-11-28T15:32:34",
+        "longitude": 4.90906,
+        "latitude": 50.97074,
+        "odometer": 74189465,
+        "direction": 142,
+        "speed": 62
+      },
+      {
+        "id": 202066686,
+        "eventDateTime": "2025-11-28T15:33:34",
+        "longitude": 4.92348,
+        "latitude": 50.96854,
+        "odometer": 74190595,
+        "direction": 97,
+        "speed": 58
+      },
+      {
+        "id": 202067060,
+        "eventDateTime": "2025-11-28T15:34:35",
+        "longitude": 4.93,
+        "latitude": 50.96938,
+        "odometer": 74191100,
+        "direction": 79,
+        "speed": 0
+      },
+      {
+        "id": 202067448,
+        "eventDateTime": "2025-11-28T15:35:35",
+        "longitude": 4.93042,
+        "latitude": 50.9694,
+        "odometer": 74191130,
+        "direction": 75,
+        "speed": 0
+      },
+      {
+        "id": 202067820,
+        "eventDateTime": "2025-11-28T15:36:35",
+        "longitude": 4.93007,
+        "latitude": 50.97685,
+        "odometer": 74192055,
+        "direction": 19,
+        "speed": 0
+      },
+      {
+        "id": 202068193,
+        "eventDateTime": "2025-11-28T15:37:36",
+        "longitude": 4.94187,
+        "latitude": 50.97777,
+        "odometer": 74192965,
+        "direction": 83,
+        "speed": 64
+      },
+      {
+        "id": 202068558,
+        "eventDateTime": "2025-11-28T15:38:36",
+        "longitude": 4.95482,
+        "latitude": 50.97868,
+        "odometer": 74193925,
+        "direction": 82,
+        "speed": 53
+      },
+      {
+        "id": 202068888,
+        "eventDateTime": "2025-11-28T15:39:35",
+        "longitude": 4.95852,
+        "latitude": 50.97848,
+        "odometer": 74194255,
+        "direction": 182,
+        "speed": 0
+      },
+      {
+        "id": 202070064,
+        "eventDateTime": "2025-11-28T15:39:55",
+        "longitude": 4.95852,
+        "latitude": 50.97848,
+        "odometer": 74194260,
+        "direction": 182,
+        "speed": 0
+      }
+    ]
+  },
+  {
+    "isDrivingBar": false,
+    "eventStart": "2025-11-28T15:39:55",
+    "eventStop": "2025-11-28T15:50:19",
+    "distance": 0,
+    "place": null,
+    "points": [
+      {
+        "id": 202070064,
+        "eventDateTime": "2025-11-28T15:39:55",
+        "longitude": 4.95852,
+        "latitude": 50.97848,
+        "odometer": 74194260,
+        "direction": 182,
+        "speed": 0
+      }
+    ]
+  },
+  {
+    "isDrivingBar": true,
+    "eventStart": "2025-11-28T15:50:19",
+    "eventStop": "2025-11-28T16:05:02",
+    "distance": 8585,
+    "place": null,
+    "points": [
+      {
+        "id": 202072351,
+        "eventDateTime": "2025-11-28T15:50:19",
+        "longitude": 4.95852,
+        "latitude": 50.97848,
+        "odometer": 74194280,
+        "direction": 341,
+        "speed": 13
+      },
+      {
+        "id": 202072685,
+        "eventDateTime": "2025-11-28T15:51:20",
+        "longitude": 4.96011,
+        "latitude": 50.97907,
+        "odometer": 74194450,
+        "direction": 83,
+        "speed": 22
+      },
+      {
+        "id": 202073020,
+        "eventDateTime": "2025-11-28T15:52:20",
+        "longitude": 4.97059,
+        "latitude": 50.97979,
+        "odometer": 74195240,
+        "direction": 82,
+        "speed": 31
+      },
+      {
+        "id": 202073338,
+        "eventDateTime": "2025-11-28T15:53:20",
+        "longitude": 4.97535,
+        "latitude": 50.98029,
+        "odometer": 74195660,
+        "direction": 344,
+        "speed": 21
+      },
+      {
+        "id": 202073693,
+        "eventDateTime": "2025-11-28T15:54:20",
+        "longitude": 4.97498,
+        "latitude": 50.98742,
+        "odometer": 74196510,
+        "direction": 2,
+        "speed": 68
+      },
+      {
+        "id": 202074041,
+        "eventDateTime": "2025-11-28T15:55:20",
+        "longitude": 4.97406,
+        "latitude": 50.99562,
+        "odometer": 74197555,
+        "direction": 23,
+        "speed": 50
+      },
+      {
+        "id": 202074380,
+        "eventDateTime": "2025-11-28T15:56:20",
+        "longitude": 4.97957,
+        "latitude": 51.00012,
+        "odometer": 74198250,
+        "direction": 60,
+        "speed": 30
+      },
+      {
+        "id": 202074722,
+        "eventDateTime": "2025-11-28T15:57:20",
+        "longitude": 4.98497,
+        "latitude": 51.00172,
+        "odometer": 74198730,
+        "direction": 84,
+        "speed": 27
+      },
+      {
+        "id": 202075074,
+        "eventDateTime": "2025-11-28T15:58:21",
+        "longitude": 4.98838,
+        "latitude": 51.00404,
+        "odometer": 74199230,
+        "direction": 20,
+        "speed": 27
+      },
+      {
+        "id": 202075411,
+        "eventDateTime": "2025-11-28T15:59:21",
+        "longitude": 4.98916,
+        "latitude": 51.00572,
+        "odometer": 74199440,
+        "direction": 18,
+        "speed": 20
+      },
+      {
+        "id": 202075706,
+        "eventDateTime": "2025-11-28T16:00:20",
+        "longitude": 4.99321,
+        "latitude": 51.00958,
+        "odometer": 74200065,
+        "direction": 67,
+        "speed": 38
+      },
+      {
+        "id": 202076030,
+        "eventDateTime": "2025-11-28T16:01:20",
+        "longitude": 5.00159,
+        "latitude": 51.01472,
+        "odometer": 74200965,
+        "direction": 53,
+        "speed": 47
+      },
+      {
+        "id": 202076363,
+        "eventDateTime": "2025-11-28T16:02:21",
+        "longitude": 5.00905,
+        "latitude": 51.0124,
+        "odometer": 74201730,
+        "direction": 80,
+        "speed": 33
+      },
+      {
+        "id": 202076673,
+        "eventDateTime": "2025-11-28T16:03:21",
+        "longitude": 5.0209,
+        "latitude": 51.01314,
+        "odometer": 74202685,
+        "direction": 115,
+        "speed": 52
+      },
+      {
+        "id": 202076991,
+        "eventDateTime": "2025-11-28T16:04:21",
+        "longitude": 5.02247,
+        "latitude": 51.01294,
+        "odometer": 74202840,
+        "direction": 350,
+        "speed": 7
+      },
+      {
+        "id": 202078389,
+        "eventDateTime": "2025-11-28T16:05:02",
+        "longitude": 5.02248,
+        "latitude": 51.01303,
+        "odometer": 74202865,
+        "direction": 347,
+        "speed": 0
+      }
+    ]
+  },
+  {
+    "isDrivingBar": false,
+    "eventStart": "2025-11-28T16:05:02",
+    "eventStop": "2025-11-28T23:59:59",
+    "distance": 0,
+    "place": null,
+    "points": [
+      {
+        "id": 202078389,
+        "eventDateTime": "2025-11-28T16:05:02",
+        "longitude": 5.02248,
+        "latitude": 51.01303,
+        "odometer": 74202865,
+        "direction": 347,
+        "speed": 0
+      }
+    ]
+  }
+]
